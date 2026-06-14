@@ -50,7 +50,7 @@
 ---
 
 ### Milestone 1.3 — Version Control Habits *(Day 7)*
-- [ ] Commit to GitHub daily with clear commit messages
+- [x] Commit to GitHub daily with clear commit messages
 - [ ] Set up Trello board: `To Do` / `In Progress` / `Done`
 - [ ] Add all tasks from this document to Trello
 
