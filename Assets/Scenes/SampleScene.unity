@@ -2522,14 +2522,14 @@ Transform:
   m_GameObject: {fileID: 824270165}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.58, y: -0.56, z: 0}
+  m_LocalPosition: {x: -0.97, y: 3.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!60 &824270168
-PolygonCollider2D:
+--- !u!61 &824270168
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -2558,11 +2558,11 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.6704407, y: -1.84233}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -2572,13 +2572,8 @@ PolygonCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 14.624845, y: 19.650028}
-      - {x: -15.441729, y: 19.562822}
-      - {x: -15.548062, y: -7.450574}
-      - {x: 14.6088505, y: -8.188526}
-  m_UseDelaunayMesh: 1
+  m_Size: {x: 48.687542, y: 43.348633}
+  m_EdgeRadius: 0
 --- !u!1 &1548833849
 GameObject:
   m_ObjectHideFlags: 0
@@ -2977,7 +2972,7 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 1836813210}
-  - {fileID: 1548833854}
   - {fileID: 824270167}
+  - {fileID: 1548833854}
   - {fileID: 1782211906}
   - {fileID: 7230682}
