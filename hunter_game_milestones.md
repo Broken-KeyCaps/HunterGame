@@ -41,11 +41,11 @@
 ---
 
 ### Milestone 1.2 — Basic Map & Camera *(Day 5)*
-- [ ] Build a basic top-down test arena using Tilemap (walls, corridors, open areas)
-- [ ] Add Cinemachine Virtual Camera that follows the player
+- [x] Build a basic top-down test arena using Tilemap (walls, corridors, open areas)
+- [x] Add Cinemachine Virtual Camera that follows the player
 - [ ] Constrain camera to map bounds
-- [ ] Add placeholder sprites for Hunter (red box) and Prey (blue box)
-- [ ] Confirm WASD movement works
+- [x] Add placeholder sprites for Hunter (red box) and Prey (blue box)
+- [x] Confirm WASD movement works
 
 ---
 
