@@ -31,12 +31,12 @@
 ---
 
 ### Milestone 1.1 — Dev Environment Ready *(Day 2)*
-- [ ] Install Unity (LTS version)
-- [ ] Create a new Unity 2D project: `HunterGame`
-- [ ] Install Git and create GitHub account
-- [ ] Initialize Git repo and push first commit
-- [ ] Install VS Code with the Unity editor package (or use Rider / Visual Studio)
-- [ ] Create folder structure: `/Scenes`, `/Scripts`, `/Assets/Art`, `/Assets/Audio`
+- [x] Install Unity (LTS version)
+- [x] Create a new Unity 2D project: `HunterGame`
+- [x] Install Git and create GitHub account
+- [x] Initialize Git repo and push first commit
+- [x] Install VS Code with the Unity editor package (or use Rider / Visual Studio)
+- [x] Create folder structure: `/Scenes`, `/Scripts`, `/Assets/Art`, `/Assets/Audio`
 
 ---
 
